@@ -85,7 +85,7 @@ body {
 
  /* App */
 
-.app {
+#app {
     position: absolute;
     width: 500px;
     height: 500px;
@@ -98,17 +98,28 @@ body {
     display: flex;
 }
 
-.app .buttons {
+#app .buttons {
     margin-top: 1rem;
     margin-left: 1rem;
     display: flex;
 }
 
-.app .buttons img {
+#app .buttons button {
+    margin: 0;
+    padding: 0;
+    background: none;
+    border: none;
+}
+
+#app .buttons img {
     margin-left: 0.25rem;
 }
 
-.app .left-side {
+#app .buttons img:hover {
+    filter: brightness(75%);
+}
+
+#app .left-side {
     background: rgba(0, 0, 0, 0.35);
     background-blend-mode: luminosity;
     backdrop-filter: blur(40.7742px);
@@ -118,7 +129,7 @@ body {
     border-bottom-left-radius: 20px;
 }
 
-.app .right-side {
+#app .right-side {
     background: black;
     width: 65%;
     height: 100%;
@@ -126,7 +137,7 @@ body {
     border-bottom-right-radius: 20px;
 }
 
-.app .right-side .app-title {
+#app .right-side .app-title {
     font-family: 'SF Pro Text';
     font-weight: bold;
     color: white;
