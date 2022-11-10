@@ -95,7 +95,7 @@ body {
     left: calc(50% - 500px/2);
 
     border-radius: 20px;
-    display: flex;
+    display: none;
 }
 
 #app .buttons {
@@ -167,4 +167,38 @@ body {
 .dock-bar .app-icon {
     margin-top: 0.25rem;
     margin-left: 0.25rem;
+}
+
+.dock-bar .app-button {
+    margin: 0;
+    padding: 0;
+    background: none;
+    border: none;
+}
+
+.bounce {
+    animation: bounce 1s ease infinite;
+}
+@keyframes bounce {
+    70% { transform:translateY(0%); }
+    80% { transform:translateY(-15%); }
+    90% { transform:translateY(0%); }
+    95% { transform:translateY(-7%); }
+    97% { transform:translateY(0%); }
+    99% { transform:translateY(-3%); }
+    100% { transform:translateY(0); }
+}
+
+.fade-out-down {
+    animation: fade-out-down 500ms ease infinite;
+}
+@keyframes fade-out-down {
+    0% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
 }
