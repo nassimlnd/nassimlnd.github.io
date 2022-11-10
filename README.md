@@ -8,6 +8,7 @@ Le but est de faire de ce portfolio un projet a part entière en JavaScript, me 
 **Les idées :**
 - Design _MacOS_
 - _"Mini OS"_ codé en JavaScript avec plusieurs _"App"_, qui permettent d'afficher (Projets, CV, et présentation).
+- Écran de chargement à l'ouverture du site, comme un bootloader
 
 **Capture d'écrans pour idées :**
 
