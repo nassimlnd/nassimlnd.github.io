@@ -94,10 +94,8 @@ body {
     bottom: 0%;
     left: calc(50% - 500px/2);
 
-    background: rgba(0, 0, 0, 0.35);
-    background-blend-mode: luminosity;
-    backdrop-filter: blur(40.7742px);
     border-radius: 20px;
+    display: flex;
 }
 
 .app .buttons {
@@ -108,6 +106,31 @@ body {
 
 .app .buttons img {
     margin-left: 0.25rem;
+}
+
+.app .left-side {
+    background: rgba(0, 0, 0, 0.35);
+    background-blend-mode: luminosity;
+    backdrop-filter: blur(40.7742px);
+    width: 35%;
+    height: 100%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.app .right-side {
+    background: black;
+    width: 65%;
+    height: 100%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.app .right-side .app-title {
+    font-family: 'SF Pro Text';
+    font-weight: bold;
+    color: white;
+    margin-left: 2rem;
 }
 
 /* Dock Bar */
@@ -127,6 +150,7 @@ body {
     border-radius: 20px;
 
     border: 0.25px solid rgba(245, 245, 245, 0.15);
+    display: flex;
 }
 
 .dock-bar .app-icon {
