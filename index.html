@@ -4,9 +4,19 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/style.css">
     <title>Portfolio</title>
-    <script src="js/index.js"></script>
+    <script src="js/index.js" defer></script>
 </head>
 <body>
+    <div class="loading-screen">
+        <div class="os-icon-load">
+            <img src="resources/img/icon.svg" alt="">
+        </div>
+        <div class="loadingbar-container">
+            <div class="loadingbar">
+
+            </div>
+        </div>
+    </div>
     <div class="background">
         <div class="status-bar">
             <div class="status-bar-left">
@@ -27,7 +37,7 @@
         <div id="app">
             <div class="left-side">
                 <div class="buttons">
-                    <button onclick="closeWindow();" class="close-button"><img src="resources/img/Ellipse%201.svg" alt=""></button>
+                    <button onclick="closeWindow('app');" class="close-button"><img src="resources/img/Ellipse%201.svg" alt=""></button>
                     <button class="middle-button"><img src="resources/img/Ellipse%202.svg" alt=""></button>
                     <button class="right-button"><img src="resources/img/Ellipse%203.svg" alt=""></button>
                 </div>
@@ -37,12 +47,27 @@
             </div>
         </div>
 
+        <div id="project-app" >
+            <div class="left-side">
+                <div class="buttons">
+                    <button class="close-button" onclick="closeWindow('project');"><img src="resources/img/Ellipse%201.svg" alt=""></button>
+                    <button class="middle-button"><img src="resources/img/Ellipse%202.svg" alt=""></button>
+                    <button class="right-button"><img src="resources/img/Ellipse%203.svg" alt=""></button>
+                </div>
+                <div class="search-bar">
+                </div>
+            </div>
+            <div class="right-side">
+                <p class="app-title">My Projects</p>
+            </div>
+        </div>
+
         <div class="dock-bar">
             <div class="app-icon" id="app-button">
                 <button class="app-button" onclick="openWindow('app')"><img src="resources/img/finder.svg" alt=""></button>
             </div>
-            <div class="app-icon">
-                <img src="resources/img/rappel.svg" alt="">
+            <div class="app-icon" id="project-button">
+                <button class="project-button" onclick="openWindow('project')"><img src="resources/img/rappel.svg" alt=""></button>
             </div>
             <div class="app-icon">
                 <img src="resources/img/trash.svg" alt="">
