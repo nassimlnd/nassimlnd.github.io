@@ -3,12 +3,12 @@ import Logo from "@/components/Logo";
 //D1A300
 export default function Home() {
     return (
-        <main className="flex h-screen w-full items-center justify-between">
-            <div className="w-1/2 h-full bg-white flex flex-col items-center justify-center space-y-10">
+        <main className="lg:flex h-screen w-full items-center justify-between">
+            <div className="w-full lg:w-1/2 h-2/3 lg:h-full bg-white flex flex-col items-center justify-center space-y-10">
                 <Logo />
-                <p className="text-3xl">Nassim LOUNADI</p>
+                <p className="text-2xl lg:text-3xl">Nassim LOUNADI</p>
             </div>
-            <div className="w-1/2 h-full bg-neutral-900 flex flex-col justify-center px-6">
+            <div className="w-full lg:w-1/2 lg:h-full py-8 bg-neutral-900 text-[12px] lg:text-base flex flex-col justify-center px-6">
                 <p className="text-neutral-600">1   {'{'}</p>
                 <p className="text-neutral-600">2     <span className="text-[#D1A300]">name</span>:     &quot;<span className="text-green-500">Nassim LOUNADI</span>&quot;,</p>
                 <p className="text-neutral-600">3     <span className="text-[#D1A300]">position</span>: &quot;<span className="text-green-500">Full-stack developer</span>&quot;,</p>
