@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7e5e03a-67b3-4196-8c25-37660e77b861" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/portfolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/idea-screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/fonts/SFProText.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/Ellipse 1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/Ellipse 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/Ellipse 3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/finder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/rappel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/trash.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZsCJz6iFxX2xvDjlp8eiORawhw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\stump\\Documents\\GitHub\\nassimlnd.github.io\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stump\Documents\GitHub\nassimlnd.github.io\src\app" />
+      <recent name="C:\Users\stump\Documents\GitHub\nassimlnd.github.io\src" />
+      <recent name="C:\Users\stump\Documents\GitHub\nassimlnd.github.io\src\app\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7e5e03a-67b3-4196-8c25-37660e77b861" name="Changes" comment="" />
+      <created>1703201334959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703201334959</updated>
+      <workItem from="1703201337968" duration="3560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
