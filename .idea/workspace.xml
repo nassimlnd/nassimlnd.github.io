@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7e5e03a-67b3-4196-8c25-37660e77b861" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Logo.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/portfolio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/idea-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/fonts/SFProText.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/img/Ellipse 1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/img/Ellipse 2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/img/Ellipse 3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/img/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/img/finder.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/img/icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/img/rappel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/img/trash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Logo.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703201334959</updated>
-      <workItem from="1703201337968" duration="3560000" />
+      <workItem from="1703201337968" duration="3815000" />
     </task>
     <servers />
   </component>
