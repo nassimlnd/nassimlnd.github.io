@@ -13,7 +13,7 @@ export default function Home() {
                 <p className="text-neutral-600">2     <span className="text-[#D1A300]">name</span>:     &quot;<span className="text-green-500">Nassim LOUNADI</span>&quot;,</p>
                 <p className="text-neutral-600">3     <span className="text-[#D1A300]">position</span>: &quot;<span className="text-green-500">Full-stack developer</span>&quot;,</p>
                 <p className="text-neutral-600">4 </p>
-                <p className="text-neutral-600">5     <span className="text-[#D1A300]">email</span>:    <a href="mailto:nassimlnd37@gmail.com" className="text-sky-500 hover:underline underline-offset-4">nassimlnd37@gmail.com&quot;</a>,</p>
+                <p className="text-neutral-600">5     <span className="text-[#D1A300]">email</span>:   &quot;<a href="mailto:nassimlnd37@gmail.com" className="text-sky-500 hover:underline underline-offset-4">nassimlnd37@gmail.com</a>&quot;,</p>
                 <p className="text-neutral-600">6     <span className="text-[#D1A300]">location</span>: &quot;<span className="text-green-500">Tours, France</span>&quot;,</p>
                 <p className="text-neutral-600">7 </p>
                 <p className="text-neutral-600">8     <span className="text-[#D1A300]">experience</span>: {'{'}</p>
